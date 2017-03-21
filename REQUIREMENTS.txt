@@ -1,0 +1,21 @@
+Requirements:
+
+Register
+* Print the numbers from one to one hundred except in the following cases:
+	* For multiples of three print "Register" instead of the number
+	* For the multiples of five print "Patient" instead of the number
+	* For numbers which are multiples of both three and five print "Register Patient" instead of the number
+
+Diagnose
+* Print the numbers from one to one hundred except in the following cases:
+	* For multiples of two print "Diagnose" instead of the number
+	* For the multiples of seven print "Patient" instead of the number
+	* For numbers which are multiples of both two and seven print "Diagnose Patient" instead of the number
+
+High Level
+* Solution must work as a WPF application
+* Solution must use C# in .Net 4 or newer
+* Solution must easily add future event types
+* Utilize object oriented programming principles (interfaces, and design)
+* Solution must compile, and function
+* Solution must correctly implement above business rules
